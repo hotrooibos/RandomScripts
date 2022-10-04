@@ -1,0 +1,17 @@
+{
+    "apps":{
+        "Signal":
+        {
+            "src_dir":"C:/Users/tlda/AppData/Local/Programs/signal-desktop",
+            "des_dir":"C:/Users/tlda/Apps/Signal",
+            "exe":"Signal.exe"
+        },
+
+        "Notion":
+        {
+            "src_dir":"C:/Users/tlda/AppData/Local/Programs/Notion",
+            "des_dir":"C:/Users/tlda/Apps/Notion",
+            "exe":"Notion.exe"
+        }
+    }
+}
